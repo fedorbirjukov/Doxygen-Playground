@@ -24,4 +24,4 @@ TOC_INCLUDE_HEADINGS   = 6
 # Other useful options
 EXTRACT_ALL            = YES
 QUIET                  = NO
-HTML_COLORSTYLE        = AUTO_LIGHT
+HTML_COLORSTYLE        = TOGGLE
