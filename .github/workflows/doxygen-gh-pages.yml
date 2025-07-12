@@ -22,6 +22,10 @@ jobs:
       - name: Generate Doxygen documentation
         run: doxygen ./Doxyfile
 
+      # In the repository settings, go to Actions -> General -> Workflow permissions
+      # and enable Read and write permissions.
+      # After the workflow runs successfully, go to Settings -> Pages -> Branch
+      # select `gh-pages` and click "Save".
       - name: Upload documentation to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
