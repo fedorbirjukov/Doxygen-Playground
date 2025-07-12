@@ -1,0 +1,29 @@
+name: Doxygen GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Doxygen 1.14.0
+        run: |
+          wget https://github.com/doxygen/doxygen/releases/download/Release_1_14_0/doxygen-1.14.0.linux.bin.tar.gz
+          tar -xzf doxygen-1.14.0.linux.bin.tar.gz
+          sudo mv doxygen-1.14.0/bin/doxygen /usr/local/bin/doxygen
+          doxygen --version
+
+      - name: Generate Doxygen documentation
+        run: doxygen ./Doxyfile
+
+      - name: Upload documentation to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/html

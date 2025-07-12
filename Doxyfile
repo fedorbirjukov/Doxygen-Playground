@@ -1,0 +1,24 @@
+# Doxyfile 1.9.1
+# This configuration file was generated to enable Markdown support in Doxygen.
+
+# Project related configuration options
+PROJECT_NAME           = "My Doxygen Markdown Project"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = ./
+FILE_PATTERNS          = *.md *.markdown
+RECURSIVE              = YES
+
+# Build related configuration options
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+# Configuration options related to the input files
+USE_MDFILE_AS_MAINPAGE = README.md
+EXTENSION_MAPPING      = md=markdown markdown=markdown
+MARKDOWN_SUPPORT       = YES
+TOC_INCLUDE_HEADINGS   = 6
+
+# Other useful options
+EXTRACT_ALL            = YES
+QUIET                  = NO
+HTML_COLORSTYLE        = AUTO_LIGHT
