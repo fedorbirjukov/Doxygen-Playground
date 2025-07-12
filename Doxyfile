@@ -3,9 +3,13 @@
 
 # Project related configuration options
 PROJECT_NAME           = "My Doxygen Markdown Project"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "A project to demonstrate Doxygen with Markdown"
+PROJECT_LOGO           = logo55px.png
+PROJECT_ICON           = logo55px.png
 OUTPUT_DIRECTORY       = docs
 INPUT                  = ./
-FILE_PATTERNS          = *.md *.markdown
+# FILE_PATTERNS          = *.md *.markdown *.cpp *.hpp *.h *.cxx *.hxx
 RECURSIVE              = YES
 
 # Build related configuration options
@@ -14,7 +18,6 @@ GENERATE_LATEX         = NO
 
 # Configuration options related to the input files
 USE_MDFILE_AS_MAINPAGE = README.md
-EXTENSION_MAPPING      = md=markdown markdown=markdown
 MARKDOWN_SUPPORT       = YES
 TOC_INCLUDE_HEADINGS   = 6
 
