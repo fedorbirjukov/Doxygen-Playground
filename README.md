@@ -1,4 +1,5 @@
-[TOC]
+<!--! [TOC] -->
+<!-- https://www.doxygen.nl/manual/htmlcmds.html#htmltagcmds -->
 
 ![Doxygen GitHub Pages](https://github.com/MangaD/Doxygen-Playground/actions/workflows/doxygen-gh-pages.yml/badge.svg)
 

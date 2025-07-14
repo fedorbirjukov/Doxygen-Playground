@@ -1,10 +1,11 @@
+<!--!
 \defgroup usage Usage Instructions with `Doxygen`
 \ingroup docs
 \hidegroupgraph
+[TOC]
+-->
 
 # Usage Instructions & Markdown Feature Tests
-
-[TOC]
 
 This file is designed to test Doxygen's Markdown and documentation parsing capabilities. It includes a variety of Markdown features and Doxygen-specific syntax.
 
