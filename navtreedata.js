@@ -33,31 +33,58 @@ var NAVTREE =
       [ "🤖 About This Repository", "index.html#autotoc_md10", null ],
       [ "📚 Resources", "index.html#autotoc_md12", null ]
     ] ],
-    [ "Usage Instructions &amp; Markdown Feature Tests", "md_usage.html", [
-      [ "1. Headings", "md_usage.html#autotoc_md15", null ],
-      [ "H1 Heading", "md_usage.html#autotoc_md16", [
-        [ "H2 Heading", "md_usage.html#autotoc_md17", [
-          [ "H3 Heading", "md_usage.html#autotoc_md18", [
-            [ "H4 Heading", "md_usage.html#autotoc_md19", null ]
+    [ "Usage Instructions &amp; Markdown Feature Tests", "usage.html", [
+      [ "1. Headings", "usage.html#autotoc_md14", null ],
+      [ "H1 Heading", "usage.html#autotoc_md15", [
+        [ "H2 Heading", "usage.html#autotoc_md16", [
+          [ "H3 Heading", "usage.html#autotoc_md17", [
+            [ "H4 Heading", "usage.html#autotoc_md18", null ]
           ] ]
         ] ],
-        [ "2. Lists", "md_usage.html#autotoc_md21", [
-          [ "Unordered List", "md_usage.html#autotoc_md22", null ],
-          [ "Ordered List", "md_usage.html#autotoc_md23", null ]
+        [ "2. Lists", "usage.html#autotoc_md20", [
+          [ "Unordered List", "usage.html#autotoc_md21", null ],
+          [ "Ordered List", "usage.html#autotoc_md22", null ]
         ] ],
-        [ "3. Links &amp; Images", "md_usage.html#autotoc_md25", null ],
-        [ "4. Code Blocks", "md_usage.html#autotoc_md27", [
-          [ "C++ Example", "md_usage.html#autotoc_md28", null ],
-          [ "Python Example", "md_usage.html#autotoc_md29", null ]
+        [ "3. Links &amp; Images", "usage.html#autotoc_md24", null ],
+        [ "4. Code Blocks", "usage.html#autotoc_md26", [
+          [ "C++ Example", "usage.html#autotoc_md27", null ],
+          [ "Python Example", "usage.html#autotoc_md28", null ]
         ] ],
-        [ "5. Tables", "md_usage.html#autotoc_md31", null ],
-        [ "6. Blockquotes &amp; Admonitions", "md_usage.html#autotoc_md33", null ],
-        [ "7. Inline Formatting", "md_usage.html#autotoc_md35", null ],
-        [ "8. Doxygen Commands in Markdown", "md_usage.html#autotoc_md37", null ],
-        [ "9. Cross-References", "md_usage.html#autotoc_md39", null ],
-        [ "10. HTML in Markdown", "md_usage.html#autotoc_md41", null ],
-        [ "11. Math (if enabled)", "md_usage.html#autotoc_md43", null ],
-        [ "12. Custom Grouping", "md_usage.html#autotoc_md45", null ]
+        [ "5. Tables", "usage.html#autotoc_md30", null ],
+        [ "6. Blockquotes &amp; Admonitions", "usage.html#autotoc_md32", null ],
+        [ "7. Inline Formatting", "usage.html#autotoc_md34", null ],
+        [ "8. Doxygen Commands in Markdown", "usage.html#autotoc_md36", null ],
+        [ "9. Cross-References", "usage.html#autotoc_md38", null ],
+        [ "10. HTML in Markdown", "usage.html#autotoc_md40", null ],
+        [ "11. Math (if enabled)", "usage.html#autotoc_md42", null ],
+        [ "12. Custom Grouping", "usage.html#autotoc_md44", null ]
+      ] ]
+    ] ],
+    [ "Usage Instructions &amp; Markdown Feature Tests", "subdir_usage.html", [
+      [ "1. Headings", "subdir_usage.html#autotoc_md47", null ],
+      [ "H1 Heading", "subdir_usage.html#autotoc_md48", [
+        [ "H2 Heading", "subdir_usage.html#autotoc_md49", [
+          [ "H3 Heading", "subdir_usage.html#autotoc_md50", [
+            [ "H4 Heading", "subdir_usage.html#autotoc_md51", null ]
+          ] ]
+        ] ],
+        [ "2. Lists", "subdir_usage.html#autotoc_md53", [
+          [ "Unordered List", "subdir_usage.html#autotoc_md54", null ],
+          [ "Ordered List", "subdir_usage.html#autotoc_md55", null ]
+        ] ],
+        [ "3. Links &amp; Images", "subdir_usage.html#autotoc_md57", null ],
+        [ "4. Code Blocks", "subdir_usage.html#autotoc_md59", [
+          [ "C++ Example", "subdir_usage.html#autotoc_md60", null ],
+          [ "Python Example", "subdir_usage.html#autotoc_md61", null ]
+        ] ],
+        [ "5. Tables", "subdir_usage.html#autotoc_md63", null ],
+        [ "6. Blockquotes &amp; Admonitions", "subdir_usage.html#autotoc_md65", null ],
+        [ "7. Inline Formatting", "subdir_usage.html#autotoc_md67", null ],
+        [ "8. Doxygen Commands in Markdown", "subdir_usage.html#autotoc_md69", null ],
+        [ "9. Cross-References", "subdir_usage.html#autotoc_md71", null ],
+        [ "10. HTML in Markdown", "subdir_usage.html#autotoc_md73", null ],
+        [ "11. Math (if enabled)", "subdir_usage.html#autotoc_md75", null ],
+        [ "12. Custom Grouping", "subdir_usage.html#autotoc_md77", null ]
       ] ]
     ] ],
     [ "Topics", "topics.html", "topics" ],
