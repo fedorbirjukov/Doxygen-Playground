@@ -1,4 +1,4 @@
-# Usage Instructions & Markdown Feature Tests {#usage}
+# Usage Instructions & Markdown Feature Tests {#subdir_usage}
 
 This file is designed to test Doxygen's Markdown and documentation parsing capabilities. It includes a variety of Markdown features and Doxygen-specific syntax.
 

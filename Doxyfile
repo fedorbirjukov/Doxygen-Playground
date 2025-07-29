@@ -8,7 +8,7 @@ PROJECT_BRIEF          = "A project to demonstrate Doxygen with Markdown"
 PROJECT_LOGO           = logo55px.png
 PROJECT_ICON           = logo55px.png
 OUTPUT_DIRECTORY       = docs
-INPUT                  = src README.md usage.md
+INPUT                  = src README.md usage.md subdir/usage.md
 # FILE_PATTERNS          = *.md *.markdown *.cpp *.hpp *.h *.cxx *.hxx
 RECURSIVE              = YES
 

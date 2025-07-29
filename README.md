@@ -44,7 +44,9 @@ Welcome to the **Doxygen Playground**! This repository is designed to experiment
 
 ## 🛠️ Usage Example
 
-See [usage.md](usage.md) for usage instructions and code examples.
+See [usage.md](./usage.md) for usage instructions and code examples.
+
+See [subdir/usage.md](./subdir/usage.md) for the same usage instructions and code examples.
 
 ---
 
