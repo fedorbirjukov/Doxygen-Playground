@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['group_0',['Example Group',['../group__example__group.html',1,'']]]
+  ['usage_0',['Usage',['../group__usage.html',1,'']]]
 ];

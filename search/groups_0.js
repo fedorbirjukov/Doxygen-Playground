@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['doxygen_0',['Usage Instructions with &lt;span class=&quot;tt&quot;&gt;Doxygen&lt;/span&gt;',['../group__usage.html',1,'']]]
+  ['example_20group_0',['Example Group',['../group__example__group.html',1,'']]]
 ];

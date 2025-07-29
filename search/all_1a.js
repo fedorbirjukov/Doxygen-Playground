@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['with_20doxygen_0',['Usage Instructions with &lt;span class=&quot;tt&quot;&gt;Doxygen&lt;/span&gt;',['../group__usage.html',1,'']]]
+  ['�_20documentation_20output_0',['� Documentation Output',['../index.html#autotoc_md8',1,'']]]
 ];

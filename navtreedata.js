@@ -33,6 +33,33 @@ var NAVTREE =
       [ "🤖 About This Repository", "index.html#autotoc_md10", null ],
       [ "📚 Resources", "index.html#autotoc_md12", null ]
     ] ],
+    [ "Usage Instructions &amp; Markdown Feature Tests", "md_usage.html", [
+      [ "1. Headings", "md_usage.html#autotoc_md15", null ],
+      [ "H1 Heading", "md_usage.html#autotoc_md16", [
+        [ "H2 Heading", "md_usage.html#autotoc_md17", [
+          [ "H3 Heading", "md_usage.html#autotoc_md18", [
+            [ "H4 Heading", "md_usage.html#autotoc_md19", null ]
+          ] ]
+        ] ],
+        [ "2. Lists", "md_usage.html#autotoc_md21", [
+          [ "Unordered List", "md_usage.html#autotoc_md22", null ],
+          [ "Ordered List", "md_usage.html#autotoc_md23", null ]
+        ] ],
+        [ "3. Links &amp; Images", "md_usage.html#autotoc_md25", null ],
+        [ "4. Code Blocks", "md_usage.html#autotoc_md27", [
+          [ "C++ Example", "md_usage.html#autotoc_md28", null ],
+          [ "Python Example", "md_usage.html#autotoc_md29", null ]
+        ] ],
+        [ "5. Tables", "md_usage.html#autotoc_md31", null ],
+        [ "6. Blockquotes &amp; Admonitions", "md_usage.html#autotoc_md33", null ],
+        [ "7. Inline Formatting", "md_usage.html#autotoc_md35", null ],
+        [ "8. Doxygen Commands in Markdown", "md_usage.html#autotoc_md37", null ],
+        [ "9. Cross-References", "md_usage.html#autotoc_md39", null ],
+        [ "10. HTML in Markdown", "md_usage.html#autotoc_md41", null ],
+        [ "11. Math (if enabled)", "md_usage.html#autotoc_md43", null ],
+        [ "12. Custom Grouping", "md_usage.html#autotoc_md45", null ]
+      ] ]
+    ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
